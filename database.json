@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/RWGALE/test.git": [
+      "https://github.com/RWGALE/test.git",
+      "1637699156977"
+    ],
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "1637698938650"
@@ -7,9 +11,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
-      "https://gist.github.com/d4312a0787456ec27a2a.git",
-      "helloWorld.groovy"
+    "https://github.com/RWGALE/test.git:TEST1..c": [
+      "https://github.com/RWGALE/test.git",
+      "TEST1..c"
     ]
   },
   "BowlerStudioConfigs": {
